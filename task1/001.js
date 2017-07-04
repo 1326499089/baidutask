@@ -1,4 +1,4 @@
-function $(id){
+		function $(id){
 			return document.getElementById(id);
 		}
 		function add(num1,num2){
